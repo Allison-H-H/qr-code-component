@@ -29,7 +29,7 @@ As my first solo project, I started by looking at the desgin in Photoshop.  I th
 
 ### What I learned
 
-This is the first solo project I have attempted since starting online an online coding course through Skillcrush.  I challenged myself to do as much of the project by myself before seeking out additional resources.  I reviewed previous projects for coding ideas and ultimately did some Google searching to resolve an issue with getting my flexbox properties to center the content properly.  I learned the importance of setting up your HTML code so that you can get the most out of the flexbox properties.
+This is the first solo project I have attempted since starting an online coding course through Skillcrush.  I challenged myself to do as much of the project by myself before seeking out additional resources.  I reviewed previous projects for coding ideas and ultimately did some Google searching to resolve an issue with getting my flexbox properties to center the content properly.  I learned the importance of setting up your HTML code so that you can get the most out of the flexbox properties.
 
 I also challenged myself to make this a responsive site including tablet and desktop styles.  I used Photoshop to approximate sizing.
 
