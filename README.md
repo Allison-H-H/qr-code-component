@@ -13,9 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 
-### Screenshot
-
-qr-code-component-solution.png
 ## My process
 
 As my first solo project, I started by looking at the desgin in Photoshop.  I then mapped out my first iteration of the HTML and started to add my stylings in CSS.  I ran into issues with the styling and did some Googling and reviewing of previous projects to help resolve the issue.  I finalized the mobile design and then customized the tablet and desktop designs. 
